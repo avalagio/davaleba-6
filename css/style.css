@@ -1,0 +1,120 @@
+header {
+  background-color: #284069;
+  width: 1440px;
+  height: 160px;
+  margin: auto;
+  display: flex;
+}
+.logo_link {
+    padding-top: 53px;
+    padding-left: 98px;
+
+}
+
+.header_li {
+  display: inline-block;
+  text-align: middle ;
+    height: 28px;
+
+
+}
+.active {
+    padding-left: 378px;
+    color: #F56013;
+}
+.inactive{
+    color: #DDEAF8;
+}
+.header_middle_li {
+    padding: 50px;
+}
+.user_logo {
+    padding-left: 379px;
+    padding-top: 53px;
+}
+section {
+  max-width: 1440px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.conteiner {
+    width: 1440px;
+    height: 1020px;
+    background-color: #DDEAF8;
+    padding-top: 94px ;
+    padding-left: 98px;
+
+}
+h2 {
+font-size: 32px;
+line-height: 40px;
+letter-spacing: 0%;
+color: #F56013;  
+}
+button {
+    width: 145px;
+    height: 44px;
+    border-radius: 10px;
+    color: #DDEAF8;
+    background-color: #F56013;
+    
+
+}
+.section_section{
+    width: 1244px;
+    height: 738px;
+    gap: 22px;
+
+
+}
+.section_article {
+    width: 390px;
+    height: 354px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.dashorebistvis{
+    padding: 22px;
+}
+.section_photo{
+    width: 330px;
+height: 220px;
+border-radius: 10px;
+padding: 30px;
+}
+footer{
+    width: 1440px;
+height: 179px;
+background-color:#284069 ;
+margin: auto;
+
+}
+h3{
+    padding:48px ;
+size: 32px;
+color: #ffffff;
+text-align: center;
+}
+.li_icon {
+    display: inline-block;
+    margin: auto;
+}
+.icons{
+    color: #F56013;
+}
+.pirveli {
+    padding-left: 661px;
+    
+}
+.meore{
+    padding: 50px;
+}
